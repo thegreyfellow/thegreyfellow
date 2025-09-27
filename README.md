@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages & Frameworks:**  
-  JavaScript / TypeScript, React, NestJS, Ruby on Rails
+  Ruby on Rails, JavaScript / TypeScript, React, NestJS, Go.
 
 - **Interests:**  
   Building scalable web apps, learning new tech, and growing as a developer (and as a person!)
